@@ -1,4 +1,4 @@
-# FileStorage
+# GetCurrency
 This program receives exchange rates from the https://openexchangerates.org 
 website and enters euro and dollar rates in rubles into the file currency.txt.
 
